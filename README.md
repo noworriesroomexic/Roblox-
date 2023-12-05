@@ -1,1 +1,2 @@
-# Roblox- y.zoom C.zoom
+type Mutation
+createuser names Stringt, rate:
